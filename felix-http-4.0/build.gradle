@@ -25,7 +25,7 @@ jar {
 }
 
 verifyInstrumentation {
-	passes 'org.apache.felix:org.apache.felix.http.jetty:[3.4.0,4.2.0]'
+	passes 'org.apache.felix:org.apache.felix.http.jetty:[4.0.0,4.2.0)'
 	excludeRegex '.*RC[1-9]'
 	
 }
