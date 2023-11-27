@@ -1,1 +1,4 @@
 rootProject.name = 'java-instrumentation-template'
+include 'felix-http-4.0'
+include 'felix-http-4.2'
+include 'felix-http-5.0'

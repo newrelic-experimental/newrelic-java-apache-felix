@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry output="bin/main" kind="src" path="src/main/java">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry output="bin/test" kind="src" path="src/test/java">
+		<attributes>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin/default"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.framework/1.10.0/7f14af51d5be199f2542a47bdc9648e8d680e591/org.osgi.framework-1.10.0-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.framework/1.10.0/b1b338ec78da4dbdd82c6938985bafeaac2b3b70/org.osgi.framework-1.10.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.apache.felix/org.apache.felix.http.jetty/4.2.18/d5e7cf8470711de115350d0dfe3ddcc8421cf7b9/org.apache.felix.http.jetty-4.2.18-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.apache.felix/org.apache.felix.http.jetty/4.2.18/78833db210ce184adb06ba20d71cd18bbc0f324/org.apache.felix.http.jetty-4.2.18.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/com.newrelic.agent.java/newrelic-agent/6.4.0/e640c171a471a3cf07a6ab7c248640ffc9e10953/newrelic-agent-6.4.0-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/com.newrelic.agent.java/newrelic-agent/6.4.0/716c0521d4baa12d9f2b0a005e1ee06a9c180214/newrelic-agent-6.4.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.m2/repository/com/newrelic/agent/java/newrelic-api/6.4.0/newrelic-api-6.4.0-sources.jar" kind="lib" path="/Users/dhilpipre/.m2/repository/com/newrelic/agent/java/newrelic-api/6.4.0/newrelic-api-6.4.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/9.4.52.v20230823/9694287d90675b819a6ecd30a2e5273b2cc0be44/jetty-webapp-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/9.4.52.v20230823/f1b4d937851456a178126d89fed86517a636691a/jetty-webapp-9.4.52.v20230823.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-server/9.4.52.v20230823/c69d4145e0c39afc25476faabb23185e9ef2c0d1/websocket-server-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-server/9.4.52.v20230823/e2ed7883664730f545dd2b4f6ac61edb4c79d344/websocket-server-9.4.52.v20230823.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/9.4.52.v20230823/292f6480a986d57bfd8f7008d4c8190a3b3a0971/jetty-servlet-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/9.4.52.v20230823/dd2f8e15e5272824eca0be176b35f68aa0f540e/jetty-servlet-9.4.52.v20230823.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/9.4.52.v20230823/fc175253d049309c742a5fc66f410db5918e4132/jetty-security-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/9.4.52.v20230823/36923429834f04168ab619a8c44cff035e2e7970/jetty-security-9.4.52.v20230823.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.http2/http2-server/9.4.52.v20230823/7f810eeb88d6a724449ec68b79c21d495e21ed23/http2-server-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.http2/http2-server/9.4.52.v20230823/51a5b3a1ebbbd1fd213ca339e6fed668541e9f39/http2-server-9.4.52.v20230823.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-alpn-server/9.4.52.v20230823/c7e67d3d99fb1507ba13f6b5b2349702ffd1e6e4/jetty-alpn-server-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-alpn-server/9.4.52.v20230823/35bb27f9a362f0522c38cebef45e3824f69ae735/jetty-alpn-server-9.4.52.v20230823.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/9.4.52.v20230823/ba444a943bae46fd9590f5520e2ad7d0b808090e/jetty-server-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/9.4.52.v20230823/eb611698eb120a56d378229be37f64f9ef43628/jetty-server-9.4.52.v20230823.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-jmx/9.4.52.v20230823/ea12d60ab62bd59fccd5a73fbf6060ab837491d0/jetty-jmx-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-jmx/9.4.52.v20230823/211da06c320b2fac02ac562796c19dc4f5cac172/jetty-jmx-9.4.52.v20230823.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.http2/http2-common/9.4.52.v20230823/8f98f4d415b95f2e086b6249cae60a92a899c03e/http2-common-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.http2/http2-common/9.4.52.v20230823/b7c88f900a4a882b93b3292b46e742a3163f42d1/http2-common-9.4.52.v20230823.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.http2/http2-hpack/9.4.52.v20230823/9c0db7a2707c1a09c7e14c342c2abbcd2e3c733f/http2-hpack-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.http2/http2-hpack/9.4.52.v20230823/343913176ad71b08e4a8ff55612a86d81ae41230/http2-hpack-9.4.52.v20230823.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util-ajax/9.4.52.v20230823/bffac4856dde1b0b16729f1bf187fc1ab765870f/jetty-util-ajax-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util-ajax/9.4.52.v20230823/3b5b2977bb885a64cc307c89e09f7f12844b933/jetty-util-ajax-9.4.52.v20230823.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-client/9.4.52.v20230823/83acf3c8d67f7512b4d4c592728eb76bb776646f/websocket-client-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-client/9.4.52.v20230823/8166b8ac714b231b94d2ed7ae33b477e779f3264/websocket-client-9.4.52.v20230823.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-client/9.4.52.v20230823/14ef4af80fcdb8bc2fe20223eff00d607ca502cd/jetty-client-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-client/9.4.52.v20230823/fed09ee11f7dd70dff7b4dc73f73a3f07888a01e/jetty-client-9.4.52.v20230823.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.4.52.v20230823/e27977c7d6a47c2196e5d883c8e9071304eef562/jetty-http-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.4.52.v20230823/c8ac92875a0c9c1fd8799bee9c628837628c9e04/jetty-http-9.4.52.v20230823.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-common/9.4.52.v20230823/20e32fdcf619daa8bb252a06530be971cdbbba27/websocket-common-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-common/9.4.52.v20230823/6b3e53aa03749e0f8dda34460f077258212c76c/websocket-common-9.4.52.v20230823.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.4.52.v20230823/2556e2cee6b81edd15c6cfb58c06b0141e541122/jetty-io-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.4.52.v20230823/65733aeb8b6139561d9ba19cd8a8a5a5c3611233/jetty-io-9.4.52.v20230823.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-xml/9.4.52.v20230823/86ac38cc4037d997d885003047b487289d596934/jetty-xml-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-xml/9.4.52.v20230823/7309a09ec3c113a0d8d64e9672a6d1383caf3d5a/jetty-xml-9.4.52.v20230823.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/9.4.52.v20230823/253a31efffd84055353f7a8539b276029d0bb3f2/jetty-util-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/9.4.52.v20230823/86419a224c0a8ffaf04f3e4e4fd0fe889a40c29c/jetty-util-9.4.52.v20230823.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-servlet/9.4.52.v20230823/9496000850d36cc8e1d4ada2bcb760ee7d432dad/websocket-servlet-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-servlet/9.4.52.v20230823/eb410152dd87436daf921952ae4e500ca9faec07/websocket-servlet-9.4.52.v20230823.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.apache.felix/org.apache.felix.http.base/4.2.10/40870fa33c3be99409aaa07407df2c83ecfe0ec1/org.apache.felix.http.base-4.2.10-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.apache.felix/org.apache.felix.http.base/4.2.10/5cf1ab2ee209dc8dc72547c0f6eacb498cd38f95/org.apache.felix.http.base-4.2.10.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/dhilpipre/.m2/repository/commons-fileupload/commons-fileupload/1.5/commons-fileupload-1.5.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0-sources.jar" kind="lib" path="/Users/dhilpipre/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar" kind="lib" path="/Users/dhilpipre/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-api/9.4.52.v20230823/544f639d33d14cfdafc4b0a848d2757d10834411/websocket-api-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-api/9.4.52.v20230823/d3f4b4f67b5cccc177dfef86a8661ca7a3ae6f4/websocket-api-9.4.52.v20230823.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/dhilpipre/.m2/repository/org/nanohttpd/nanohttpd/2.3.1/nanohttpd-2.3.1-sources.jar" kind="lib" path="/Users/dhilpipre/.m2/repository/org/nanohttpd/nanohttpd/2.3.1/nanohttpd-2.3.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/dhilpipre/Open-Source/newrelic-java-apache-felix/libs/agent-bridge-datastore.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/dhilpipre/Open-Source/newrelic-java-apache-felix/libs/agent-bridge.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/dhilpipre/Open-Source/newrelic-java-apache-felix/libs/newrelic-agent-6.4.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/dhilpipre/Open-Source/newrelic-java-apache-felix/libs/newrelic-weaver-scala-api.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/dhilpipre/Open-Source/newrelic-java-apache-felix/libs/newrelic-weaver-api.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/dhilpipre/Open-Source/newrelic-java-apache-felix/libs/newrelic-api.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/dhilpipre/Open-Source/newrelic-java-apache-felix/test-lib/instrumentation-test.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+</classpath>
