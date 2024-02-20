@@ -23,7 +23,7 @@ public abstract class HandlerTask {
 	}
 	
 	@Trace
-	public void runWithoutBlacklistTiming() {
+	public void runWithoutDenylistTiming() {
 		NewRelic.getAgent().getTracedMethod().addCustomAttribute("TaskInfo", task.getInfo());
 		NewRelic.getAgent().getTracedMethod().addCustomAttribute("EventTopic", event.getTopic());
 		Weaver.callOriginal();

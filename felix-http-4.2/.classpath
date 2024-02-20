@@ -45,12 +45,12 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/9.4.52.v20230823/292f6480a986d57bfd8f7008d4c8190a3b3a0971/jetty-servlet-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/9.4.52.v20230823/dd2f8e15e5272824eca0be176b35f68aa0f540e/jetty-servlet-9.4.52.v20230823.jar">
+	<classpathentry sourcepath="/Users/dhilpipre/.m2/repository/org/eclipse/jetty/jetty-servlet/9.4.52.v20230823/jetty-servlet-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.m2/repository/org/eclipse/jetty/jetty-servlet/9.4.52.v20230823/jetty-servlet-9.4.52.v20230823.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/9.4.52.v20230823/fc175253d049309c742a5fc66f410db5918e4132/jetty-security-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/9.4.52.v20230823/36923429834f04168ab619a8c44cff035e2e7970/jetty-security-9.4.52.v20230823.jar">
+	<classpathentry kind="lib" path="/Users/dhilpipre/.m2/repository/org/eclipse/jetty/jetty-security/9.4.52.v20230823/jetty-security-9.4.52.v20230823.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -65,7 +65,7 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/9.4.52.v20230823/ba444a943bae46fd9590f5520e2ad7d0b808090e/jetty-server-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/9.4.52.v20230823/eb611698eb120a56d378229be37f64f9ef43628/jetty-server-9.4.52.v20230823.jar">
+	<classpathentry kind="lib" path="/Users/dhilpipre/.m2/repository/org/eclipse/jetty/jetty-server/9.4.52.v20230823/jetty-server-9.4.52.v20230823.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -85,7 +85,7 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util-ajax/9.4.52.v20230823/bffac4856dde1b0b16729f1bf187fc1ab765870f/jetty-util-ajax-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util-ajax/9.4.52.v20230823/3b5b2977bb885a64cc307c89e09f7f12844b933/jetty-util-ajax-9.4.52.v20230823.jar">
+	<classpathentry kind="lib" path="/Users/dhilpipre/.m2/repository/org/eclipse/jetty/jetty-util-ajax/9.4.52.v20230823/jetty-util-ajax-9.4.52.v20230823.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -95,12 +95,12 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-client/9.4.52.v20230823/14ef4af80fcdb8bc2fe20223eff00d607ca502cd/jetty-client-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-client/9.4.52.v20230823/fed09ee11f7dd70dff7b4dc73f73a3f07888a01e/jetty-client-9.4.52.v20230823.jar">
+	<classpathentry kind="lib" path="/Users/dhilpipre/.m2/repository/org/eclipse/jetty/jetty-client/9.4.52.v20230823/jetty-client-9.4.52.v20230823.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.4.52.v20230823/e27977c7d6a47c2196e5d883c8e9071304eef562/jetty-http-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.4.52.v20230823/c8ac92875a0c9c1fd8799bee9c628837628c9e04/jetty-http-9.4.52.v20230823.jar">
+	<classpathentry kind="lib" path="/Users/dhilpipre/.m2/repository/org/eclipse/jetty/jetty-http/9.4.52.v20230823/jetty-http-9.4.52.v20230823.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -110,7 +110,7 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.4.52.v20230823/2556e2cee6b81edd15c6cfb58c06b0141e541122/jetty-io-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.4.52.v20230823/65733aeb8b6139561d9ba19cd8a8a5a5c3611233/jetty-io-9.4.52.v20230823.jar">
+	<classpathentry kind="lib" path="/Users/dhilpipre/.m2/repository/org/eclipse/jetty/jetty-io/9.4.52.v20230823/jetty-io-9.4.52.v20230823.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -120,7 +120,7 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry sourcepath="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/9.4.52.v20230823/253a31efffd84055353f7a8539b276029d0bb3f2/jetty-util-9.4.52.v20230823-sources.jar" kind="lib" path="/Users/dhilpipre/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/9.4.52.v20230823/86419a224c0a8ffaf04f3e4e4fd0fe889a40c29c/jetty-util-9.4.52.v20230823.jar">
+	<classpathentry kind="lib" path="/Users/dhilpipre/.m2/repository/org/eclipse/jetty/jetty-util/9.4.52.v20230823/jetty-util-9.4.52.v20230823.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
@@ -135,7 +135,7 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/Users/dhilpipre/.m2/repository/commons-fileupload/commons-fileupload/1.5/commons-fileupload-1.5.jar">
+	<classpathentry sourcepath="/Users/dhilpipre/.m2/repository/commons-fileupload/commons-fileupload/1.5/commons-fileupload-1.5-sources.jar" kind="lib" path="/Users/dhilpipre/.m2/repository/commons-fileupload/commons-fileupload/1.5/commons-fileupload-1.5.jar">
 		<attributes>
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>

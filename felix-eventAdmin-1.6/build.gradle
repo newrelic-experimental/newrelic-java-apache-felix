@@ -24,5 +24,5 @@ jar {
 }
 
 verifyInstrumentation {
-	passes 'org.apache.felix:org.apache.felix.eventadmin:[1.6.0,)'
+	passes 'org.apache.felix:org.apache.felix.eventadmin:[1.6.0]'
 }

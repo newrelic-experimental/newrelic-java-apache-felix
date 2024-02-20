@@ -24,7 +24,7 @@ jar {
 }
 
 verifyInstrumentation {
-	passes ('org.apache.felix:org.apache.felix.eventadmin:[1.4.0,1.6.0)') {
+	passes ('org.apache.felix:org.apache.felix.eventadmin:[1.5.0,1.6.0)') {
 		compile('org.osgi:org.osgi.framework:1.10.0')
 		}
 }
