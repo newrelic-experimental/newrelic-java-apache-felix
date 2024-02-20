@@ -1,3 +1,6 @@
+## Version: [v1.0.0](https://github.com/newrelic-experimental/newrelic-java-apache-felix/releases/tag/v1.0.0) | Created: 2024-02-20
+
+
 ## Installation
 
 To install:
