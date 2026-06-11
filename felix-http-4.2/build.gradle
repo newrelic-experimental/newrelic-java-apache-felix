@@ -7,11 +7,11 @@ dependencies {
 	implementation 'org.apache.felix:org.apache.felix.http.jetty:4.2.18'
 	// https://mvnrepository.com/artifact/org.osgi/org.osgi.framework
 	compileOnly group: 'org.osgi', name: 'org.osgi.framework', version: '1.10.0'
-	
+
    // New Relic Java Agent dependencies
-   implementation 'com.newrelic.agent.java:newrelic-agent:6.4.0'
-   implementation 'com.newrelic.agent.java:newrelic-api:6.4.0'
-   implementation fileTree(include: ['*.jar'], dir: '../libs')
+   implementation 'com.newrelic.agent.java:newrelic-agent:' + project.findProperty('java.agent.version')
+   implementation 'com.newrelic.agent.java:newrelic-api:' + project.findProperty('java.agent.version')
+   implementation 'com.newrelic.agent.java:agent-bridge:' + project.findProperty('java.agent.version')
    implementation fileTree(include: ['*.jar'], dir: '../test-lib')
 }
 
@@ -25,7 +25,6 @@ jar {
 }
 
 verifyInstrumentation {
-	passes 'org.apache.felix:org.apache.felix.http.jetty:[4.2.0,5.0.0)'
+	passesOnly 'org.apache.felix:org.apache.felix.http.jetty:[4.2.0,5.0.0)'
 	excludeRegex '.*RC[1-9]'
-	
 }
